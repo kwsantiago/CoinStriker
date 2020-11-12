@@ -11,7 +11,7 @@ export class Team extends Component {
           <div id="row">
             {this.props.data
               ? this.props.data.map((d, i) => (
-                  <div  key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                  <div  key={`${d.name}-${i}`} className="col-md-alt team">
                     <div className="thumbnail">
                       {" "}
                       <img src={d.img} alt="..." className="team-img" />
