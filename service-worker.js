@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CoinStriker/precache-manifest.0d5c245b58515f6612c1d39d34882d2f.js"
+  "/CoinStriker/precache-manifest.423ded94d79c413b162270d590608da5.js"
 );
 
 self.addEventListener('message', (event) => {

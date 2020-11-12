@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "900b2b44d95ec5adf27cdc5f744007f1",
+    "revision": "5b1953f93878b9372d58077f64a222fa",
     "url": "/CoinStriker/index.html"
   },
   {
-    "revision": "cef660c34b1fa619ba26",
+    "revision": "4b063764cc7af78578c8",
     "url": "/CoinStriker/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoinStriker/static/js/2.fc7fa65c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cef660c34b1fa619ba26",
-    "url": "/CoinStriker/static/js/main.8656f156.chunk.js"
+    "revision": "4b063764cc7af78578c8",
+    "url": "/CoinStriker/static/js/main.95859506.chunk.js"
   },
   {
     "revision": "173f943cbb21bfe2ba27",
