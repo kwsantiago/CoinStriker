@@ -72,11 +72,11 @@ hr {
 #menu.navbar-default {
 	background-color: rgb(13,9,10);
 	border-color: rgba(231, 231, 231, 0);
-	box-shadow: 0 0 10px white
+	box-shadow: 0 0 10px rgb(103,230,230)
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: 700;
 	color: rgb(103,230,230);
 	text-transform: uppercase;
@@ -85,7 +85,7 @@ hr {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	color: rgb(103,230,230);
-	font-size: 17px;
+	font-size: 18px;
 	font-weight: 600;
 	padding: 8px 2px;
 	border-radius: 0;
@@ -156,7 +156,7 @@ hr {
 	text-transform: uppercase;
 	color: #fff;
 	background-color: #5ca9fb;
-	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background-image: linear-gradient(to right, rgb(103,230,230) 0%, black 100%);
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -169,7 +169,7 @@ hr {
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
 	background-image: none;
-	background-color: #6372ff;
+	background-color: rgb(103,230,230);
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -196,13 +196,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: rgb(103,230,230);
 	font-size: 82px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
+  top: -55;
 }
 .intro h1 span {
 	font-weight: 800;
@@ -210,8 +211,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro p {
 	color: #fff;
-	font-size: 22px;
-	font-weight: 300;
+	font-size: 25px;
+	font-weight: 400;
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
