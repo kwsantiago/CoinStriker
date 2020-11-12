@@ -6,7 +6,7 @@ export class InvestmentStrategy extends Component {
       <div id="investmentStrategy" className="text-center">
         <div className="container">
           <div className="col-md-10 col-md-offset-1 section-title">
-            <h2>Investment Strategy</h2>
+            <h2>Our Edge</h2>
           </div>
           <div className="row">
             {this.props.data

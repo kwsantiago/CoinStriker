@@ -33,7 +33,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#investmentStrategy" className="page-scroll">
-                  Investment Strategy
+                  Our Edge
                 </a>
               </li>
               <li>
