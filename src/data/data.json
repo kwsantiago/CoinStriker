@@ -76,7 +76,7 @@
     "Team": [{
             "img": "img/team/01.jpg",
             "name": "Ross Karel",
-            "job": "Director"
+            "job": "Founder & Managing Director"
         },
         {
             "img": "img/team/02.jpg",
@@ -89,8 +89,13 @@
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Jeff Stanislow",
+            "job": "Chief Sales Officer"
+        },
+        {
+            "img": "img/team/05.jpg",
+            "name": "Nolan Jacobson",
+            "job": "VP of Engineering"
         }
     ],
     "Contact": {
