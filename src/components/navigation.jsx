@@ -18,9 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              CoinStriker
-            </a>{" "}
+            <div> <img src="img/header.png" alt=""/></div>
           </div>
 
           <div

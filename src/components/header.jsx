@@ -9,7 +9,7 @@ export class Header extends Component {
             <div className="container">
               <div className="row">
                 <div className="col-md-8 col-md-offset-2 intro-text">
-                  <div> <img src="img/header.png" className="img-responsive" alt=""/></div>
+                  <div> <img src="img/header-w.png" className="img-responsive" alt=""/></div>
                   <a
                     href="#contact"
                     className="btn btn-custom btn-lg page-scroll"
