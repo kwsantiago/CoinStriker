@@ -223,12 +223,29 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
-/* Features Section */
-#features {
+/* InvestmentStrategy Section */
+#InvestmentStrategy {
 	padding: 100px 0;
-	background: #f6f6f6;
+  background-color: rgb(13,9,10);
 }
-#features i.fa {
+#InvestmentStrategy p {
+  font-size: 22px;
+	font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+#InvestmentStrategy h2 {
+	position: relative;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+  color: rgb(103,230,230);
+}
+#InvestmentStrategy h3 {
+	position: relative;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+  color: rgb(103,230,230);
+}
+#InvestmentStrategy i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
@@ -247,7 +264,6 @@ header .intro-text {
 	padding: 100px 0;
 }
 #about h2 {
-	3osition: relative;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
   color: rgb(103,230,230);
