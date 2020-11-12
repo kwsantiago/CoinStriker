@@ -20,7 +20,7 @@ export class Header extends Component {
                     href="#contact"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    Contact Us
                   </a>{" "}
                 </div>
               </div>
