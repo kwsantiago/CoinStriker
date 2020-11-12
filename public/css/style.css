@@ -226,22 +226,26 @@ header .intro-text {
 /* InvestmentStrategy Section */
 #InvestmentStrategy {
 	padding: 100px 0;
-  background-color: rgb(13,9,10);
 }
 #InvestmentStrategy p {
   font-size: 22px;
 	font-family: 'Open Sans', sans-serif;
-  color: white;
+  color: black;
 }
-#InvestmentStrategy h2 {
+#InvestmentStrategy h1 {
+	font-family: 'Open Sans', sans-serif;
 	position: relative;
 	margin-bottom: 15px;
+  font-size: 50px;
+  bottom: -40;
+	font-weight: 400;
 	padding-bottom: 15px;
-  color: rgb(103,230,230);
+  color: black;
 }
 #InvestmentStrategy h3 {
 	position: relative;
 	margin-bottom: 15px;
+  font-size: 33px;
 	padding-bottom: 15px;
   color: rgb(103,230,230);
 }
@@ -420,6 +424,7 @@ header .intro-text {
 /* Team Section */
 #team {
 	padding: 100px 0;
+  background-color: lightgrey;
 }
 #team h4 {
 	margin: 5px 0;
