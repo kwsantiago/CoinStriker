@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CoinStriker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/CoinStriker/static/js/main.aa03d79c.chunk.js",
+    "main.js.map": "/CoinStriker/static/js/main.aa03d79c.chunk.js.map",
+    "runtime-main.js": "/CoinStriker/static/js/runtime-main.612f9b1e.js",
+    "runtime-main.js.map": "/CoinStriker/static/js/runtime-main.612f9b1e.js.map",
+    "static/js/2.fc7fa65c.chunk.js": "/CoinStriker/static/js/2.fc7fa65c.chunk.js",
+    "static/js/2.fc7fa65c.chunk.js.map": "/CoinStriker/static/js/2.fc7fa65c.chunk.js.map",
+    "index.html": "/CoinStriker/index.html",
+    "precache-manifest.3d94a101a6c5855535855bc670c090b8.js": "/CoinStriker/precache-manifest.3d94a101a6c5855535855bc670c090b8.js",
+    "service-worker.js": "/CoinStriker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/CoinStriker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fc7fa65c.chunk.js.LICENSE.txt": "/CoinStriker/static/js/2.fc7fa65c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612f9b1e.js",
+    "static/js/2.fc7fa65c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.aa03d79c.chunk.js"
+  ]
+}
