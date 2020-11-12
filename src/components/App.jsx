@@ -35,6 +35,7 @@ export class App extends Component {
 
   render() {
     return (
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <div>
         <Navigation />
         <Header data={this.state.resumeData.Header}/>
@@ -46,6 +47,7 @@ export class App extends Component {
         <Team  data={this.state.resumeData.Team}/>
         <Contact  data={this.state.resumeData.Contact}/>
       </div>
+      </meta>
     )
   }
 }
