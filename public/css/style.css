@@ -286,7 +286,8 @@ header .intro-text {
 	height: 4px;
 	width: 60px;
 	bottom: 282;
-	left: 0;
+	left:3.5% ;
+	top: 45;
 }
 #about img {
 	width: 520px;
