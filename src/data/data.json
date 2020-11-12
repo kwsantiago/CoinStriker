@@ -6,19 +6,8 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
+        "paragraph1": "CoinStriker is a boutique research, algorithmic trading and investment fund which identifies highly nuanced fintech, blockchain, and open finance investment opportunities.",
+        "paragraph2": "We have a deep passion and hyper-focus for Decentralized Finance (DeFi) and Proof-of-Stake (POS) consensus algorithm technologies and focus solely on that segment."
     },
     "Services": [{
             "icon": "fa fa-wordpress",
