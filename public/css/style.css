@@ -75,14 +75,14 @@ hr {
 	box-shadow: 0 0 10px rgb(103,230,230)
 }
 #menu a.navbar-brand {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
 	font-weight: 700;
 	color: rgb(103,230,230);
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 	color: rgb(103,230,230);
 	font-size: 18px;
@@ -196,7 +196,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: rgb(103,230,230);
 	font-size: 82px;
 	font-weight: 700;
@@ -210,6 +210,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #5ca9fb;
 }
 .intro p {
+	font-family: 'Open Sans', sans-serif;
 	color: #fff;
 	font-size: 25px;
 	font-weight: 400;
@@ -242,16 +243,14 @@ header .intro-text {
 /* About Section */
 #about {
   background-color: rgb(13,9,10);
+  color: white;
 	padding: 100px 0;
 }
-#about h3 {
-	font-size: 22px;
-	margin: 0 0 20px 0;
-}
 #about h2 {
-	position: relative;
+	3osition: relative;
 	margin-bottom: 15px;
 	padding-bottom: 15px;
+  color: rgb(103,230,230);
 }
 #about h2::after {
 	position: absolute;
@@ -259,22 +258,8 @@ header .intro-text {
 	background: linear-gradient(to right, rgb(103,230,230) 0%, black 100%);
 	height: 4px;
 	width: 60px;
-	bottom: 0;
+	bottom: 282;
 	left: 0;
-}
-#about .about-text li {
-	margin-bottom: 6px;
-	margin-left: 6px;
-	list-style: none;
-	padding: 0;
-}
-#about .about-text li:before {
-	content: '\f00c';
-	font-family: 'FontAwesome';
-	color: #5ca9fb;
-	font-size: 11px;
-	font-weight: 300;
-	padding-right: 8px;
 }
 #about img {
 	width: 520px;
@@ -284,6 +269,8 @@ header .intro-text {
 	box-shadow: 0 0 50px rgba(0,0,0,0.06);
 }
 #about p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
 	line-height: 24px;
 	margin: 30px 0;
 }
