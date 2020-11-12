@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 
-export class features extends Component {
+export class InvestmentStrategy extends Component {
   render() {
     return (
-      <div id="features" className="text-center">
+      <div id="investmentStrategy" className="text-center">
         <div className="container">
           <div className="col-md-10 col-md-offset-1 section-title">
-            <h2>Features</h2>
+            <h2>Investment Strategy</h2>
           </div>
           <div className="row">
             {this.props.data
@@ -26,4 +26,4 @@ export class features extends Component {
   }
 }
 
-export default features;
+export default InvestmentStrategy;

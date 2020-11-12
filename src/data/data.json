@@ -101,25 +101,25 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    "InvestmentStrategy": [{
+            "icon": "fa fa-rocket",
+            "title": "Algorithmic",
+            "text": "Our data driven algorithms look for the edge in the market to make non-emotional decisions to maximize profit."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bar-chart",
+            "title": "Micro-Index",
+            "text": "By tinkering with the technologies ourselves and doing deep dive research anaylses on projects, we are able to evaluate the best programmtic entry and exit logic to ensure efficieny on mico timescales."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-star",
+            "title": "Macro-Index",
+            "text": "By participating in growing the community and building tools that help the ecosystem as a whole, we can extract more value out of the system."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bolt",
+            "title": "DeFi Multiplier",
+            "text": "Staking, lending, flash loans, operating nodes, and more are all things that we specialize in so that you don't have to."
         }
     ]
 }
