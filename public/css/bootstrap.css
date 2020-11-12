@@ -1592,9 +1592,20 @@ pre code {
     width: 750px;
   }
 }
+/* @media (min-width: 666px and max-width 812px) {
+  .col-md-alt {
+    width: 100%;
+    padding: 1rem;
+  }
+} */
+
 @media (min-width: 992px) {
   .container {
     width: 970px;
+  }
+  .col-md-alt {
+    width: 20%;
+    padding: 1rem;
   }
 }
 @media (min-width: 1200px) {
@@ -1608,10 +1619,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-.col-md-alt {
-  width: 20%;
-  padding: 1rem;
-}
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
