@@ -598,6 +598,13 @@ color: #777;
 #about img {
 	margin: 50px 0;
 }
+#menu img {
+	width: 20rem;
+}
+.img-responsive {
+    width: 40rem;
+    margin-left: 32rem;
+  }
 header .intro-text {
 	margin-left: -33rem;
 }
