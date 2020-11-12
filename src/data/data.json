@@ -6,8 +6,8 @@
 
     },
     "About": {
-        "paragraph1": "CoinStriker is a boutique research, algorithmic trading and investment fund which identifies highly nuanced fintech, blockchain, and open finance investment opportunities.",
-        "paragraph2": "We have a deep passion and hyper-focus for Decentralized Finance (DeFi) and Proof-of-Stake (POS) consensus algorithm technologies and focus solely on that segment."
+        "paragraph1": "CoinStriker is a boutique research, algorithmic trading, and investment fund which identifies highly nuanced FinTech, blockchain, and open finance investment opportunities.",
+        "paragraph2": "We have a deep passion and hyper-focus for Decentralized Finance (DeFi) and Proof-of-Stake (PoS) consensus algorithm technologies and focus solely on that segment."
     },
     "Services": [{
             "icon": "fa fa-wordpress",
