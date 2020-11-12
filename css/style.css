@@ -598,4 +598,17 @@ color: #777;
 #about img {
 	margin: 50px 0;
 }
+header .intro-text {
+	margin-left: -33rem;
+}
+.intro h1 {
+	font-size: 40px;
+    margin-left: 32rem;
+}
+.intro p {
+    margin-left: 32rem;
+}
+.btn-custom {
+    margin-left: 32rem;
+}
 }
