@@ -430,8 +430,8 @@ header .intro-text {
 }
 /* Team Section */
 #team {
-	padding: 100px 0;
-  background-color: lightgrey;
+  padding: 100px 0;
+  background-color: #f6f6f6;
 }
 #team h4 {
   font-size: 23px;
