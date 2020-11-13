@@ -430,8 +430,8 @@ header .intro-text {
 }
 /* Team Section */
 #team {
-	padding: 100px 0;
-  background-color: lightgrey;
+  padding: 100px 0;
+  background-color: #f6f6f6;
 }
 #team h4 {
   font-size: 23px;
@@ -650,8 +650,7 @@ header .intro-text {
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 	.img-responsive {
-		margin-left: 35rem;
-	}
+		margin-left: 36rem;	}
 }
 
 /* ----------- iPhone X ----------- */
