@@ -15,7 +15,7 @@ export class Contact extends Component {
                     will get back to you as soon as possible.
                   </p>
                 </div>
-                <form name="sentMessage" id="contactForm" noValidate>
+                <form name="sentMessage" noValidate action="https://formspree.io/f/xwkwqlye" method="POST">
                   <div className="row">
                     <div className="col-md-6">
                       <div className="form-group">
@@ -25,6 +25,7 @@ export class Contact extends Component {
                           className="form-control"
                           placeholder="Name"
                           required="required"
+                          name="name"
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -37,6 +38,7 @@ export class Contact extends Component {
                           className="form-control"
                           placeholder="Email"
                           required="required"
+                          name="_replyto"
                         />
                         <p className="help-block text-danger"></p>
                       </div>
@@ -50,11 +52,12 @@ export class Contact extends Component {
                       rows="4"
                       placeholder="Message"
                       required
+                      name="message"
                     ></textarea>
                     <p className="help-block text-danger"></p>
                   </div>
                   <div id="success"></div>
-                  <button type="submit" className="btn btn-custom btn-lg">
+                  <button type="submit" className="btn btn-custom btn-lg" value="Send">
                     Send Message
                   </button>
                 </form>
