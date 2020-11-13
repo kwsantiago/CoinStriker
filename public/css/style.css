@@ -650,8 +650,7 @@ header .intro-text {
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 	.img-responsive {
-		margin-left: 35rem;
-	}
+		margin-left: 36rem;	}
 }
 
 /* ----------- iPhone X ----------- */
