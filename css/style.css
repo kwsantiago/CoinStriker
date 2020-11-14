@@ -609,39 +609,51 @@ color: #777;
 }
 
 @media (max-width: 768px) {
-#about img {
-	margin: 50px 0;
-}
-#menu img {
-	width: 20rem;
-}
-.img-responsive {
-    width: 40rem;
+  #about img {
+    position: relative;
+    left: 0px;
+    right: 44px;
+    margin: 50px 0;
+  }
+  #menu img {
+    position: relative;
+    right: 53px;
+    left: 25px;
+    width: 240px;
+    margin-top: 10px;
+    border-right: 33px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.06);
+  }
+  .img-responsive {
+    position: relative;
+    width: 350px;
+    left: 45px;
+    right: 0px;
+    margin-left: 32rem;
+    }
+  header .intro-text {
+    margin-left: -33rem;
+  }
+  .intro h1 {
+    font-size: 40px;
     margin-left: 32rem;
   }
-header .intro-text {
-	margin-left: -33rem;
-}
-.intro h1 {
-	font-size: 40px;
+  .intro p {
     margin-left: 32rem;
-}
-.intro p {
+  }
+  .btn-custom {
     margin-left: 32rem;
-}
-.btn-custom {
-    margin-left: 32rem;
-}
-#about h2::after {
-	position: absolute;
-	content: "";
-	background: linear-gradient(to right, rgb(103,230,230) 0%, black 100%);
-	height: 4px;
-	width: 60px;
-	bottom: 282;
-	left:3.5% ;
-	top: 45;
-}
+  }
+  #about h2::after {
+    position: absolute;
+    content: "";
+    background: linear-gradient(to right, rgb(103,230,230) 0%, black 100%);
+    height: 4px;
+    width: 60px;
+    bottom: 282;
+    left:3.5% ;
+    top: 45;
+  }
 }
 
 /* ----------- iPhone 6, 7 and 8 ----------- */
@@ -678,5 +690,4 @@ header .intro-text {
 		width: 37rem;
 		margin-left: 35rem;
 	}
-	
 }
