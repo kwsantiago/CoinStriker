@@ -18,7 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <div> <img src="img/header.png" alt=""/></div>
+            <div> <img src="img/header.png" href="#page-top" alt=""/></div>
           </div>
 
           <div
