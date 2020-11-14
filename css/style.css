@@ -82,17 +82,20 @@ hr {
 	text-transform: uppercase;
 }
 #menu img {
+  position: relative;
+  right: 43px;
+  left: -100px;
 	width: 520px;
 	margin-top: 10px;
-	border-right: 0;
+	border-right: 33px;
 	box-shadow: 0 0 50px rgba(0,0,0,0.06);
 }
 #menu.navbar-default .navbar-nav > li > a {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Xolonium-Bold';
 	text-transform: uppercase;
 	color: rgb(103,230,230);
-	font-size: 19px;
-  bottom: -20px;
+	font-size: 22px;
+  bottom: -30px;
 	font-weight: 600;
 	padding: 8px 2px;
 	border-radius: 0;
@@ -239,11 +242,11 @@ header .intro-text {
 	font-family: 'Open Sans', sans-serif;
   color: black;
 }
-#InvestmentStrategy h1 {
-	font-family: 'Open Sans', sans-serif;
+#InvestmentStrategy h2 {
+	font-family: 'Xolonium-Bold';
 	position: relative;
 	margin-bottom: 15px;
-  font-size: 50px;
+  font-size: 45px;
   bottom: -40;
 	font-weight: 400;
 	padding-bottom: 15px;
@@ -275,6 +278,7 @@ header .intro-text {
 	padding: 100px 0;
 }
 #about h2 {
+	font-family: 'Xolonium-Bold';
 	margin-bottom: 15px;
 	padding-bottom: 15px;
   color: rgb(103,230,230);
@@ -432,6 +436,16 @@ header .intro-text {
 #team {
   padding: 100px 0;
   background-color: #f6f6f6;
+}
+#team h2{
+	font-family: 'Xolonium-Bold';
+	position: relative;
+	margin-bottom: 15px;
+  font-size: 45px;
+  bottom: -40;
+	font-weight: 400;
+	padding-bottom: 15px;
+  color: black;
 }
 #team h4 {
   font-size: 23px;
