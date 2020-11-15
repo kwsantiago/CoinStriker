@@ -76,14 +76,6 @@ export class Contact extends Component {
               <div className="contact-item">
                 <p>
                   <span>
-                    <i className="fa fa-phone"></i> Phone
-                  </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
-                </p>
-              </div>
-              <div className="contact-item">
-                <p>
-                  <span>
                     <i className="fa fa-envelope-o"></i> Email
                   </span>{" "}
                   {this.props.data ? this.props.data.email : "loading"}
