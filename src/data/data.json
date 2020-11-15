@@ -113,12 +113,12 @@
         },
         {
             "icon": "fa fa-bar-chart",
-            "title": "Micro-Index",
-            "text": "We are able to evaluate the best programmtic entry and exit logic to ensure efficiency on micro timescales using deep research analyses."
+            "title": "Micro",
+            "text": "We are able to evaluate the best programmtic entry and exit logic to ensure efficiency on micro timescales."
         },
         {
             "icon": "fa fa-star",
-            "title": "Macro-Index",
+            "title": "Macro",
             "text": "Building trust in communities and creating tools that foster growth in the ecosystem allow for long term growth in the assets we manage."
         },
         {
