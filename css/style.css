@@ -634,9 +634,6 @@ color: #777;
   header .intro-text {
     margin-left: -33rem;
   }
-  .intro {
-    background: url(../img/intro-bg-mobile.jpg) center center no-repeat;
-  }
   .intro h1 {
     font-size: 40px;
     margin-left: 32rem;
