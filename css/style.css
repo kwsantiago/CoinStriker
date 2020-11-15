@@ -627,8 +627,8 @@ color: #777;
   .img-responsive {
     position: relative;
     width: 350px;
-    left: 100px;
-    right: 0px;
+    left: 50px;
+    right: 50px;
     margin-left: 32rem;
     }
   header .intro-text {
